@@ -5,7 +5,9 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "build:lib": "vue-cli-service build --target lib --filename vue2-csspin --name Vue2Csspin src/index.js",
+    "deploy": "npm run build:lib && npm publish --access public"
   },
   "dependencies": {
     "core-js": "^3.6.5",
