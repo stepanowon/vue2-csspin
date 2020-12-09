@@ -1,4 +1,4 @@
-# vue-csspin
+# vue2-csspin
 Spinner Component for Vue.js 2.x.
 This project is an wrapper of [CSSPIN](https://www.npmjs.com/package/csspin)
 
