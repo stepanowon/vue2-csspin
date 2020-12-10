@@ -27,7 +27,7 @@ MIT
 <head>
 <meta charset="utf-8">
 <title>vue-csspin 테스트</title>
-<link rel="stylesheet" href="https://unpkg.com/vue-csspin/dist/vue2-csspin.css" />
+<link rel="stylesheet" href="https://unpkg.com/vue2-csspin/dist/vue2-csspin.css" />
 </head>
 <body>
     <div id="app">
