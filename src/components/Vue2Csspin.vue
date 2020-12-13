@@ -15,7 +15,7 @@ export default {
         spinStyle : { type:String, default:"cp-round" },
         opacity : { 
             type:Number,  
-            default: 0.5,
+            default: 0.7,
             validator : function(value) {
                 return value >= 0 && value <= 1 
             } 
