@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>VueCsspin Test</h2><hr />
+    <h2>VueCsspin Test!!!!</h2><hr />
     Loading Message : <input type="text" v-model="message" /><br />
     Spinner Style : 
     <select v-model="spinStyle">
